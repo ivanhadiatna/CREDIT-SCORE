@@ -1,0 +1,4 @@
+{
+  "name": "Credit Scoring & Risk Classification",
+  "description": "Credit risk rating and borrower classification system based on C5.0 decision tree modeling with single assessment, batch Excel processing, and reporting."
+}
